@@ -1,4 +1,4 @@
-## macOS-strix-B450i
+# macOS-strix-B450i
 ![](ignore/desktop.png)
 # EFI for Opencore 0.6.3
 
@@ -78,7 +78,7 @@
         Heard you can also fix by adding this into the terminal
             "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
         
-# PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
+## PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
     They worked for me, but may not work for you. Please refer to the full guide below before using. 
     I will not be reponsible for any damages to your computer 
 
