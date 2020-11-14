@@ -1,6 +1,6 @@
 #### macOS-strix-B450i
 Hackintosh EFI with 
-# OPENCORE 0.6.3
+# This folder is intended  for Opencore 0.6.3
 
 may not work with newer versions of opencore!!
 
