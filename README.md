@@ -6,6 +6,7 @@ Hackintosh EFI for Opencore 0.6.3
 I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
 
 HAVE NOT USED ON BIGSUR!!
+This is a dualboot system, and remember to have your windows installed as UFEI too!!
 
 # IMPORTANT!! If you are using this EFI folder:
     -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
