@@ -15,7 +15,7 @@
     -You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
         (you can also youtube this, it will be a lot easier to visually see what they're doing)
         
-    -I am using a 5000 series card, so I have adpg=pikera in my BootArgs. If are using last gen cards take this out. 
+    -I am using a 5000 series card, so I have adpg=pikera in my BootArgs. If you are using last gen cards take this out. 
     
     SMBIOS guide
     https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#misc
