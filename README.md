@@ -8,7 +8,7 @@ I have used it on: Catalina 10.15.4 - Catalina 10.15.7
 
 HAVE NOT USED ON BIGSUR!!
 
-# IMPORTANT IF YOU ARE USING THE MY EFI FOLDER
+# IMPORTANT!! If you are using this EFI folder:
     * You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
     
     * You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
