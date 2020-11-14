@@ -4,7 +4,7 @@ This is a dualboot system, and so remember to have your windows installed as UFE
 
 **may not work with newer versions of opencore**
 
-I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
+Used on: Catalina 10.15.4 - Catalina 10.15.7 
 
 HAVE NOT USED ON BIGSUR!!
 
