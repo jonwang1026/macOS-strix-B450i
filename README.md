@@ -1,7 +1,7 @@
 # macOS-strix-B450i
 
 Hackintosh EFI with OPENCORE 0.6.3 
-I have used it on: Catalina 10.15.4 - Catalina 10.15.7
+I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
 HAVE NOT USED ON BIGSUR!!
 
 IMPORTANT IF YOU ARE USING THE MY EFI FOLDER
