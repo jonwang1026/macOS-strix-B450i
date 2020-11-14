@@ -1,10 +1,9 @@
 # macOS-strix-B450i
 ![](ignore/desktop.png)
-## EFI for Opencore 0.6.3
-    may not work with newer versions of opencore!!
+## This EFI is for Opencore 0.6.3
+    May not work with newer versions of opencore!!
 
 ## Worked on:
-
     -Catalina 10.15.4 → Catalina 10.15.7 
     
     -HAVE NOT USED ON BIGSUR!!
