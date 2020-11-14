@@ -39,7 +39,7 @@ HAVE NOT USED ON BIGSUR!!
     
     * Wireless Card: BCM94360NG
         NOTE: This is the wifi card that I used to replace the one that came with the board. 
-        Airdrop, wifi, and Airpods all work out of the box
+              Airdrop, wifi, and Airpods all work out of the box
               
 ## BIOS Settings
     Under Boot Settings
