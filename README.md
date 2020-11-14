@@ -2,12 +2,15 @@
 
 
 
-Hackintosh EFI with OPENCORE 0.6.3 
+Hackintosh EFI with OPENCORE 0.6.3
+
 I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
+
 HAVE NOT USED ON BIGSUR!!
 
 # IMPORTANT IF YOU ARE USING THE MY EFI FOLDER
     * You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
+    
     * You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
     
     SMBIOS guide
@@ -16,20 +19,20 @@ HAVE NOT USED ON BIGSUR!!
     https://dortania.github.io/OpenCore-Post-Install/usb/manual/manual.html#usb-mapping-the-manual-way
     
 ## My current specs
-    CPU : AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor
+    * CPU : AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor
     
-    Memory : Team T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory
+    * Memory : Team T-FORCE VULCAN Z 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory
     
-    Motherboard : Asus ROG Strix B450-I Gaming Mini ITX AM4 Motherboard
+    * Motherboard : Asus ROG Strix B450-I Gaming Mini ITX AM4 Motherboard
     
-    Case : NZXT H1 (comes with PSU and 140mm AIO)
+    * Case : NZXT H1 (comes with PSU and 140mm AIO)
     
-    Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive
+    * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive
     
-    Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
-    Wireless Card: BCM94360NG
+    * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
+    * Wireless Card: BCM94360NG
         NOTE: I have used a Apple supported wireless card, and it works out of the box.
-              Had to replace the onboard one, but there are video
+              Had to remove + replace the onboard one, but there are video
               
 ## BIOS Settings
     Under Boot Settings
