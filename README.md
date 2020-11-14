@@ -61,7 +61,7 @@
         
 ## ISSUES YOU MAY FACE
     * SLEEP and SLEEP FROM WAKE:
-        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing
+        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing.
         
     * Discord:
         Pretty much unuseable. Had to use it during a hackathon meeting, and was horrible :(
@@ -73,9 +73,9 @@
         for a full second randomly throughout my time of use.
         
     * Mouse stuttering issues
-        Fixed by downloading steelseries exact mouse. (direct download)
+        Fixed by downloading steelseries exact mouse. (direct download link below)
             https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg
-        Heard you can also fix by adding this into the terminal
+        Heard you can also fix this by adding this line into the terminal, but not sure.
             "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
         
 ## PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
