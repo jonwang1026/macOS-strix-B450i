@@ -80,9 +80,13 @@ HAVE NOT USED ON BIGSUR!!
     I will not be reponsible for any damages to your computer 
 
 # Dortania Guide
-    An amazing guide via dortoania: https://dortania.github.io/OpenCore-Install-Guide/
+    An amazing guide: https://dortania.github.io/OpenCore-Install-Guide/
 # If you need technical help you can use their discord channel (and donate to amdosx if you can)
     Discord: https://discord.com/invite/EfCYAJW
     Donation to Amd OSX: https://forum.amd-osx.com/index.php?dbtech-donate/drives/amd-os-x.1/donate
     
+    
+    
+
+If you read all the way here olive you, and don't worry theres a lot of people who are here to help :)
 
