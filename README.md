@@ -38,8 +38,8 @@ HAVE NOT USED ON BIGSUR!!
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
     
     * Wireless Card: BCM94360NG
-        NOTE: I have used a Apple supported wireless card, and it works out of the box.
-              Had to remove + replace the onboard one, but there are video
+        NOTE: This is the wifi card that I used to replace the one that came with the board. 
+        Airdrop, wifi, and Airpods all work out of the box
               
 ## BIOS Settings
     Under Boot Settings
