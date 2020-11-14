@@ -1,6 +1,5 @@
 ## macOS-strix-B450i
 Hackintosh EFI for Opencore 0.6.3
-This is a dualboot system, and so remember to have your windows installed as UFEI too!!
 
 **may not work with newer versions of opencore**
 
@@ -34,6 +33,7 @@ HAVE NOT USED ON BIGSUR!!
     * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive (MacOS)
     
     * Storage : Western Digital SN750 NVMe 1 TB M.2-2280 NVME Solid State Drive (Windows)
+        NOTE: I did dual boot this, so my Windows on this drive is installed as an UFEI
     
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
     
@@ -83,4 +83,4 @@ HAVE NOT USED ON BIGSUR!!
 # If you need technical help you can use their discord channel via amd osx (also donate if you can)
     https://discord.com/invite/EfCYAJW
     
-lmao this lowkey fun
+
