@@ -1,12 +1,14 @@
 #### macOS-strix-B450i
 
+
+
 Hackintosh EFI with OPENCORE 0.6.3 
 I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
 HAVE NOT USED ON BIGSUR!!
 
-## IMPORTANT IF YOU ARE USING THE MY EFI FOLDER
-    You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
-    You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
+# IMPORTANT IF YOU ARE USING THE MY EFI FOLDER
+    * You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
+    * You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
     SMBIOS guide
     https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#misc
     USB port mapping guide
@@ -25,25 +27,29 @@ HAVE NOT USED ON BIGSUR!!
               
 ## BIOS Settings
     Under Boot Settings
-        Fast Boot → Disabled
-        CSM → Launch CSM → Disabled
-        Secure Boot → OS Type → Windows UEFI
+        * Fast Boot → Disabled
+        * CSM → Launch CSM → Disabled
+        * Secure Boot → OS Type → Windows UEFI
         
     Under Advanced Settings
-        USB Configuration → XHCI Hand-off → Enabled
-        Core Performance Boost → Disabled
+        * USB Configuration → XHCI Hand-off → Enabled
+        * Core Performance Boost → Disabled
+        
+    Under EasyMode (Press F7)
+        * Turn on "Asus Optimial"
+        * XMP Enabled → Profile 1
         
         
 ## ISSUES YOU MAY FACE
-    SLEEP and SLEEP FROM WAKE:
+    * SLEEP and SLEEP FROM WAKE:
         Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing
         
-    Discord:
+    * Discord:
         Pretty much unuseable. Had to use it during a hackathon meeting, and was horrible :(
         FIX can be found here, but have not tested it
         https://discord.com/channels/249992304503291905/263798638373896203/717912500498333746
         
-    Random google chrome freezing
+    * Random google chrome freezes
         I'm not sure if its my 5500xt that's defective or if its a whatevergreen problem, but my google chrome would freeze 
         for a full second randomly throughout my time of use.
         
