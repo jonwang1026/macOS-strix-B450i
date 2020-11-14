@@ -1,7 +1,7 @@
 # macOS-strix-B450i
 ![](ignore/desktop.png)
-# EFI for Opencore 0.6.3
-    **may not work with newer versions of opencore**
+## EFI for Opencore 0.6.3
+    may not work with newer versions of opencore!!
 
 ## Worked on:
 
