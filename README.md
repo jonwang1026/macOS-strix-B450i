@@ -1,6 +1,8 @@
 ## macOS-strix-B450i
 Hackintosh EFI for Opencore 0.6.3
 
+![](ignore/desktop.png)
+
 **may not work with newer versions of opencore**
 
 Used on: Catalina 10.15.4 - Catalina 10.15.7 
