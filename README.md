@@ -76,10 +76,11 @@ HAVE NOT USED ON BIGSUR!!
             "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
         
 # PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
-    They worked for me, but may not work for you. Please refer to the full guide below before using.
+    They worked for me, but may not work for you. Please refer to the full guide below before using. 
+    I will not be reponsible for any damages to your computer 
 
 # Dortania Guide
-    https://dortania.github.io/OpenCore-Install-Guide/
+    An amazing guide via dortoania: https://dortania.github.io/OpenCore-Install-Guide/
 # If you need technical help you can use their discord channel (and donate to amdosx if you can)
     Discord: https://discord.com/invite/EfCYAJW
     Donation to Amd OSX: https://forum.amd-osx.com/index.php?dbtech-donate/drives/amd-os-x.1/donate
