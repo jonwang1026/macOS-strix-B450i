@@ -62,10 +62,18 @@ HAVE NOT USED ON BIGSUR!!
         I'm not sure if its my 5500xt that's defective or if its a whatevergreen problem, but my google chrome would freeze 
         for a full second randomly throughout my time of use.
         
+    * Mouse stuttering issues
+        Fixed by downloading steelseries exact mouse. (direct download)
+            https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg
+        Heard you can also fix by adding this into the terminal
+            "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
+        
 # PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
     They worked for me, but may not work for you. Please refer to the full guide below before using.
 
-# Refer to the dorantia guide for further questions.
+# Dortania Guide
     https://dortania.github.io/OpenCore-Install-Guide/
 # If you need technical help you can use their discord channel via amd osx (also donate if you can)
     https://discord.com/invite/EfCYAJW
+    
+lmao this lowkey fun
