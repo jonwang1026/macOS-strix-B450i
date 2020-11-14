@@ -10,7 +10,7 @@
     
     -HAVE NOT USED ON BIGSUR!!
 
-# IMPORTANT!! If you are using this EFI folder:
+# **IMPORTANT** If you are using this EFI folder:
     -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc. 
         (you can youtube this)
     
