@@ -1,7 +1,6 @@
 ## macOS-strix-B450i
-Hackintosh EFI for Opencore 0.6.3
-
 ![](ignore/desktop.png)
+Hackintosh EFI for Opencore 0.6.3
 
 **may not work with newer versions of opencore**
 
