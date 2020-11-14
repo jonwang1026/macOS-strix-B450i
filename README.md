@@ -7,9 +7,9 @@ I have used it on: Catalina 10.15.4 - Catalina 10.15.7
 HAVE NOT USED ON BIGSUR!!
 
 # IMPORTANT!! If you are using this EFI folder:
-    * You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
+    -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
     
-    * You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
+    -You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
     
     SMBIOS guide
     https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#misc
@@ -28,6 +28,7 @@ HAVE NOT USED ON BIGSUR!!
     * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive
     
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
+    
     * Wireless Card: BCM94360NG
         NOTE: I have used a Apple supported wireless card, and it works out of the box.
               Had to remove + replace the onboard one, but there are video
