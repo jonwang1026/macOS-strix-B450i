@@ -4,7 +4,7 @@
 
 **may not work with newer versions of opencore**
 
-# Worked on:
+## Worked on:
 
     -Catalina 10.15.4 → Catalina 10.15.7 
     
