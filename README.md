@@ -4,9 +4,9 @@
 
 **may not work with newer versions of opencore**
 
-Used on: 
-    - Catalina 10.15.4 - Catalina 10.15.7 
-    - HAVE NOT USED ON BIGSUR!!
+Used on
+    -Catalina 10.15.4 - Catalina 10.15.7 
+    -HAVE NOT USED ON BIGSUR!!
 
 # IMPORTANT!! If you are using this EFI folder:
     -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc. 
