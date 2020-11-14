@@ -80,7 +80,8 @@ HAVE NOT USED ON BIGSUR!!
 
 # Dortania Guide
     https://dortania.github.io/OpenCore-Install-Guide/
-# If you need technical help you can use their discord channel via amd osx (also donate if you can)
-    https://discord.com/invite/EfCYAJW
+# If you need technical help you can use their discord channel (and donate to amdosx if you can)
+    Discord: https://discord.com/invite/EfCYAJW
+    Donation to Amd OSX: https://forum.amd-osx.com/index.php?dbtech-donate/drives/amd-os-x.1/donate
     
 
