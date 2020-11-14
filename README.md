@@ -1,22 +1,21 @@
-## macOS-strix-B450i
-Hackintosh EFI for Opencore 0.6.3
-
+# macOS-strix-B450i
 ![](ignore/desktop.png)
+## This EFI is for Opencore 0.6.3
+    May not work with newer versions of opencore!!
 
-**may not work with newer versions of opencore**
+## Worked on:
+    -Catalina 10.15.4 → Catalina 10.15.7 
+    
+    -HAVE NOT USED ON BIGSUR!!
 
-Used on: Catalina 10.15.4 - Catalina 10.15.7 
-
-HAVE NOT USED ON BIGSUR!!
-
-# IMPORTANT!! If you are using this EFI folder:
+# !!IMPORTANT!! If you are using this EFI folder:
     -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc. 
         (you can youtube this)
     
     -You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
         (you can also youtube this, it will be a lot easier to visually see what they're doing)
         
-    -I am using a 5000 series card, so I have adpg=pikera in my BootArgs. If are using last gen cards take this out. 
+    -I am using a 5000 series card, so I have adpg=pikera in my BootArgs. If you are using last gen cards take this out. 
     
     SMBIOS guide
     https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#misc
@@ -60,7 +59,7 @@ HAVE NOT USED ON BIGSUR!!
         
 ## ISSUES YOU MAY FACE
     * SLEEP and SLEEP FROM WAKE:
-        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing
+        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing.
         
     * Discord:
         Pretty much unuseable. Had to use it during a hackathon meeting, and was horrible :(
@@ -72,19 +71,21 @@ HAVE NOT USED ON BIGSUR!!
         for a full second randomly throughout my time of use.
         
     * Mouse stuttering issues
-        Fixed by downloading steelseries exact mouse. (direct download)
+        Fixed by downloading steelseries exact mouse. (direct download link below)
             https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg
-        Heard you can also fix by adding this into the terminal
+        Heard you can also fix this by adding this line into the terminal, but not sure.
             "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
         
-# PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
+## PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
     They worked for me, but may not work for you. Please refer to the full guide below before using. 
     I will not be reponsible for any damages to your computer 
 
 # Dortania Guide
     An amazing guide: https://dortania.github.io/OpenCore-Install-Guide/
+    
 # If you need technical help you can use their discord channel (and donate to amdosx if you can)
     Discord: https://discord.com/invite/EfCYAJW
+    
     Donation to Amd OSX: https://forum.amd-osx.com/index.php?dbtech-donate/drives/amd-os-x.1/donate
     
     
