@@ -1,17 +1,19 @@
 ## macOS-strix-B450i
 Hackintosh EFI for Opencore 0.6.3
+This is a dualboot system, and so remember to have your windows installed as UFEI too!!
 
 **may not work with newer versions of opencore**
 
 I have used it on: Catalina 10.15.4 - Catalina 10.15.7 
 
 HAVE NOT USED ON BIGSUR!!
-This is a dualboot system, and remember to have your windows installed as UFEI too!!
 
 # IMPORTANT!! If you are using this EFI folder:
-    -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc.
+    -You will need to create your own SMBIOS if you want to use iMessage, Facetime, any iServices, etc. 
+        (you can youtube this)
     
     -You will also need to create your own USBMAPPING if you encounter any conflicts with your USB ports
+        (you can also youtube this, it will be a lot easier to visually see what they're doing)
     
     SMBIOS guide
     https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#misc
@@ -27,7 +29,9 @@ This is a dualboot system, and remember to have your windows installed as UFEI t
     
     * Case : NZXT H1 (comes with PSU and 140mm AIO)
     
-    * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive
+    * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive (MacOS)
+    
+    * Storage : Western Digital SN750 NVMe 1 TB M.2-2280 NVME Solid State Drive (Windows)
     
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
     
