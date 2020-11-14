@@ -34,7 +34,7 @@
     * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive (MacOS)
     
     * Storage : Western Digital SN750 NVMe 1 TB M.2-2280 NVME Solid State Drive (Windows)
-        NOTE: I did dual boot this, so my Windows on this drive is installed as an UFEI
+        NOTE: I did dual boot this, so my Windows on this drive is installed as an UEFI
     
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
     
