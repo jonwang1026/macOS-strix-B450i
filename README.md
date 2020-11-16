@@ -59,7 +59,7 @@
         
 ## ISSUES YOU MAY FACE
     * SLEEP and SLEEP FROM WAKE:
-        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing.
+        Pretty much a known issues with AMD builds. I did do my own USBMapping, and seems to be working on 0.6.3
         
     * Discord:
         Pretty much unuseable. Had to use it during a hackathon meeting, and was horrible :(
