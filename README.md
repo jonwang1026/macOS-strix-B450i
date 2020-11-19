@@ -34,7 +34,7 @@
     * Storage : Western Digital SN550 NVMe 500 GB M.2-2280 NVME Solid State Drive (MacOS)
     
     * Storage : Western Digital SN750 NVMe 1 TB M.2-2280 NVME Solid State Drive (Windows)
-        NOTE: I did dual boot this, so my Windows on this drive is installed as an UFEI
+        NOTE: I did dual boot this, so my Windows on this drive is installed as an UEFI
     
     * Video Card : Gigabyte Radeon RX 5500 XT 8 GB GAMING OC
     
@@ -59,7 +59,7 @@
         
 ## ISSUES YOU MAY FACE
     * SLEEP and SLEEP FROM WAKE:
-        Pretty much a known issues with AMD builds. No fixes for me, so any insight would be amazing.
+        Pretty much a known issues with AMD builds. I did do my own USBMapping, and seems to be working on 0.6.3
         
     * Discord:
         Pretty much unuseable. Had to use it during a hackathon meeting, and was horrible :(
@@ -76,14 +76,14 @@
         Heard you can also fix this by adding this line into the terminal, but not sure.
             "defaults write .GlobalPreferences com.apple.mouse.scaling -1"
         
-## PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
+# PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
     They worked for me, but may not work for you. Please refer to the full guide below before using. 
     I will not be reponsible for any damages to your computer 
 
-# Dortania Guide
+## Dortania Guide
     An amazing guide: https://dortania.github.io/OpenCore-Install-Guide/
     
-# If you need technical help you can use their discord channel (and donate to amdosx if you can)
+## If you need technical help you can use their discord channel (and donate to amdosx if you can)
     Discord: https://discord.com/invite/EfCYAJW
     
     Donation to Amd OSX: https://forum.amd-osx.com/index.php?dbtech-donate/drives/amd-os-x.1/donate
