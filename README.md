@@ -78,8 +78,7 @@
         
 # PLEASE USE MY CONFIG.PLIST AND EFI FOLDER AT YOUR OWN RISK!!!
     They worked for me, but may not work for you. Please refer to the full guide below before using. 
-    I will not be reponsible for any damages to your computer 
-
+    I will not be reponsible for any damages to your computer.
 ## Dortania Guide
     An amazing guide: https://dortania.github.io/OpenCore-Install-Guide/
     
